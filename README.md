@@ -66,4 +66,4 @@ Le projet tient volontairement dans un seul fichier à ce stade.
 - Tests unitaires sur les trois calculs de solde
 - Découper `main.dart` : interface, état, persistance, logique métier
 - Passage à SQLite si le volume d'opérations le justifie
-- Build release signé
+- Build release signé 
